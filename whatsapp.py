@@ -8,7 +8,7 @@ chrome_driver = "C:/python/webauto/chromedriver.exe"
 chrome_options = Options()
 chrome_options.add_experimental_option("debuggerAddress","127.0.0.1:9222")
 
-#user_name = "Mummy "
+#user_name = "Mummy"
 #user_name = "Apne😊😇😊"
 user_name = "ToDo list"
 #user_name = "Nitin Bhai"
